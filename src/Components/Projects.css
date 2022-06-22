@@ -6,29 +6,25 @@
 } */
 
 .projects {
-  /* display: flex; */
   color:rgb(0, 247, 255);;
   background-color: rgb(16, 16, 16);
   padding-left: 130px;
-  /* padding-top: 140px; */
-  /* font-size: 130px; */
+
   font-family: 'coolvetica';
 }
 
-.projects_container {
+/* .projects_container {
   display: flex;
   color:rgb(0, 247, 255);;
   background-color: rgb(16, 16, 16);
   padding-left: 130px;
-  /* padding-top: 140px; */
-  /* font-size: 130px; */
   font-family: 'coolvetica';
-}
+} */
 
-.project {
+/* .project {
   width: 50vh;
-}
+} */
 
 .project img{
-  width: 50vh;
+  width: 50px;
 }

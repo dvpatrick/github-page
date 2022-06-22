@@ -1,4 +1,6 @@
 import './Body.css';
+import Projects from "./Projects";
+
 
 function body () {
   return (
